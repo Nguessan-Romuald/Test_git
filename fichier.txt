@@ -1,1 +1,2 @@
 Ceci est mon premier fichier avec Git
+Ceci est une 2e ligne ajoutée à la main.
